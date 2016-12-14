@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLPractice1</string>
+    <string name="id">Id</string>
+    <string name="name">Name</string>
+    <string name="phone">phone</string>
+    <string name="register">Register</string>
+    <string name="delete_all_info">Delete all info</string>
+</resources>
